@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+config:
+  zklogin-verifier: "0x9913b4beE0872CC7f556603C76737F2aDC50664e"
+  attestation-storage-path: ${ATTESTATION_STORAGE_PATH:./attestations/}

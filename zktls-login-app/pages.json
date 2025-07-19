@@ -1,0 +1,29 @@
+{
+	"pages": [
+		{
+			"path": "pages/attestation/attestation",
+			"style": {
+				"navigationBarTitleText": "证明管理"
+			}
+		},
+		{
+			"path": "pages/record/record",
+			"style": {
+				"navigationBarTitleText": "授权记录"
+			}
+		},
+		{
+			"path": "pages/preview/preview",
+			"style": {
+				"navigationBarTitleText": "导入预览"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "ZKTLS-Login",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
