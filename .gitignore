@@ -1,0 +1,34 @@
+# Node.js 项目
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Solidity 项目
+artifacts/
+cache/
+coverage/
+testem.js
+truffle-config.js
+build/
+
+# 编辑器特定文件
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 临时文件
+tmp/
+temp/
+*.tmp
+*.bak
